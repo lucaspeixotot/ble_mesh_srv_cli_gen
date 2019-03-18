@@ -1,0 +1,16 @@
+# Created by https://www.gitignore.io/api/code,cmake
+# Edit at https://www.gitignore.io/?templates=code,cmake
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+tsconfig.json
+jsconfig.json
+
+### cmake ###
+build/
+### Ctags
+tags
+
+# End of https://www.gitignore.io/api/code,cmake
